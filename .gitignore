@@ -1,3 +1,5 @@
 /dalle/.env
 terraform azure\.envrc
 /terraform azure/.envrc
+/terraform azure/id_rsa
+/terraform azure/id_rsa.pub
