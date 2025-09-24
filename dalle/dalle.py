@@ -32,11 +32,7 @@ def make_short_name(prompt: str) -> str:
 
 #Your prompts
 prompts = [
-    "Picture a gargantuan, age-old tree rising out of a foggy valley as the first light of day paints everything gold. Rope bridges strung with glowing lanterns stretch from its mighty limbs to nearby cliffs, while miniature wooden homes nestle among the tree’s enormous roots. The whole scene feels like a majestic fantasy painting brought to life.",
-    "Imagine an astronaut in a sleek suit rocking out on Mars—red dust spirals around pulsing, luminous amplifiers while neon ribbons of light dance across the sky. The colors explode in a retro-futuristic, synthwave vibe.",
-    "Envision a storybook forest clearing where rabbits, foxes, and owls sit on giant mushroom stools, chatting happily. Teacups drift in mid-air, pouring glittering tea into delicate saucers, all rendered in gentle, dreamy watercolor tones.",
-    "See a streamlined dragon made of silvery, flowing metal slicing through black storm clouds over a roiling sea. Flashes of lightning shimmer across its mirror-like scales, as if captured in a blockbuster film still.",
-    "Step into a smoky detective’s office straight from the roaring twenties—only here, glowing neon signs flicker outside the blinds and holographic evidence hovers above an old wooden desk. Shadows and light play dramatically across the scene, blending classic noir with edgy cyberpunk flair."
+    "A futuristic AI brain made of glowing circuits and neural networks, floating in a dark space with digital code and data streams surrounding it, ultra-detailed, hyper-realistic, high-definition 8K, cinematic lighting, sci-fi atmosphere, holographic interface elements, vibrant colors."
 ]
 
 
